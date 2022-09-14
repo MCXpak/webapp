@@ -1,0 +1,31 @@
+body{
+    background-color: #295135;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#main{
+    background-color: #D1E994;
+    margin-top: 50%;
+    max-width: 75%;
+    display: flex;
+    padding: 10%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-style: none;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 20px #ccc;
+    box-shadow: 0 0 20px #ccc;
+    border-radius: 20px;
+}
+
